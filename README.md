@@ -13,7 +13,7 @@ My objective is to start my career as a SOC Analyst, where I can apply my skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Caleb-Rorich/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -51,5 +51,5 @@ My objective is to start my career as a SOC Analyst, where I can apply my skills
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Caleb-Rorich/Detection-Lab/tree/main">Detection Lab</a>|
 - SOC Automation Project
